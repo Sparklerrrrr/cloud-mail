@@ -9,11 +9,11 @@ enabled = true
 [[d1_databases]]
 binding = "db"			# D1 binding name; do not change
 database_name = "cloud-mail-matrix"		# D1 database name
-database_id = ""		# D1 database id
+database_id = "992ca421-1034-4b57-b1d3-bff3822bed72"		# D1 database id
 
 [[kv_namespaces]]
 binding = "kv"			# KV binding name; do not change
-id = ""					# KV namespace id
+id = "fc35a37d37e2471dbffa5d76e1453ae0"					# KV namespace id
 
 #[[r2_buckets]]
 #binding = "r2"			# R2 binding name; do not change
